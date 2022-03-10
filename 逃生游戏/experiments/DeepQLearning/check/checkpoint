@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/malmo/MalmoPlatform/Malmo/samples/Python_examples/Vivere/experiments/DeepQLearning/check/model"
+all_model_checkpoint_paths: "/home/malmo/MalmoPlatform/Malmo/samples/Python_examples/Vivere/experiments/DeepQLearning/check/model"
